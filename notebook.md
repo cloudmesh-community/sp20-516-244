@@ -6,3 +6,4 @@
 * :+1: Made a python 3.8 venv on my computer
 * :o2: Work on datacenters project
 * :o2: Work on multipass project
+
