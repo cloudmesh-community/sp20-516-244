@@ -1,4 +1,4 @@
-##Lulea Facebook Data Center
+#Lulea Facebook Data Center
 
 The Facebook data center in Lulea , Sweden was the [first](https://www.datacenterknowledge.com/facebook/facebook-data-center-investment-sweden-nears-us1b) data center that the 
 company built in Europe. While it is currently two separate buildings, a third
@@ -11,7 +11,7 @@ that the plant runs on 337000 kW a year, this puts their cost at around
 $74 million a year, with carbon emissions totalling [7000](https://sustainability.fb.com/wp-content/uploads/2019/08/2018-Sustainability-Data-Disclosure.pdf) tons of CO2 per year; 
 roughly the same as 1500 cars driving around. 
 
-##Recycling Energy
+#Recycling Energy
 Industrial processes are never 100% efficient, and therefore energy is wasted in
 the act of making any material good. Fortunately, there are ways to recoup this
 energy and reuse it for something else. Examples of wasted energy can be sound 
@@ -21,7 +21,7 @@ use. It is even possible to use the excess heat of a process to boil water, in
 turn creating steam, which can ultimately spin a turbine and produce electricity.
 More can be seen in [this](https://orionmagazine.org/article/the-unsung-solution/) article.
 
-##Indiana and Renewable Energy
+#Indiana and Renewable Energy
 Driving north on I-65 will show you one of Indiana's biggest initiatives for
 renewable energy: a massive wind farm as far as the eye can see. Thanks to this
 and other smaller renewable sources (geothermal, solar), [Indiana power companies](https://www.forbes.com/sites/jeffmcmahon/2019/07/02/mike-pences-indiana-chooses-renewables-over-gas-as-it-retires-coal-early/#593c9b7243b4)
@@ -30,7 +30,7 @@ in an attempt to get out of the coal game entirely. Despite Indiana's
 conservative stance on most things, it is clear that there is still a drive 
 towards green energy in this beautiful state.
 
-##Data Center Outage Example
+#Data Center Outage Example
 In July 2018, multiple [google cloud services](https://status.cloud.google.com/incident/cloud-networking/18012) experienced an outage that affected
 87% of the users of the related services for a solid 32 minutes. This affected
 popular services like Spotify, Snapchat, and even Pokemon Go! Google was forced
