@@ -7,7 +7,6 @@ variables = Variables()
 variables['debug'] = True
 variables['trace'] = True
 variables['verbose'] = 10
-banner("hello")
 
 
 class ECC1:
